@@ -1,4 +1,4 @@
-# Solana Volume Bot
+# Solana Moonshot Bundler
 
 ## Prerequisites
 
