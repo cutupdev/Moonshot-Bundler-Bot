@@ -1,4 +1,10 @@
-# Solana Moonshot Bundler
+# Moonshot Bundler on Solana
+
+Moonshot bundler on solana is bundling tokens using several wallets.
+
+## Contact
+
+If you have a question or any suggestion, ask here: [Telegram: @shiny0103](https://t.me/shiny0103)
 
 ## Prerequisites
 
@@ -55,7 +61,3 @@ This bot uses the Solana Swap API from [SolanaTracker.io](https://docs.solanatra
 Now this bot is using solana swap api.
 
 Using Jupiter swap and raydium swap make the fee rate lower.
-
-## Contact
-
-If you have a question or any suggestion, ask here: [Telegram: @shiny0103](https://t.me/shiny0103)
